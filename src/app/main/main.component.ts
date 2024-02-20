@@ -12,7 +12,7 @@ export class MainComponent {
     
   }
 
-  redirection(): void {
+  redirectionJeux(): void {
     this.route.navigate(['/jeux']);
   }
 

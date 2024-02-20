@@ -2,12 +2,17 @@
     padding: 0;
     margin: 0;
 }
-h1 {
+.centrer {
     display: flex;
     text-align: center;
     justify-content: center;
+    margin-bottom: 2rem;
+}
+.bouton-titre {
     font-size:100px;
     text-shadow: 0 0 0.2em #dba19d, 0 0 0.2em #dba19d;
     color: white;
-    margin-bottom: 1rem;
+    cursor: pointer;
+    border: none;
+    background: none;
 }
